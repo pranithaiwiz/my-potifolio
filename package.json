@@ -1,24 +1,12 @@
 {
-  "name": "alsiam.github.io",
+  "name": "your-package-name",
   "version": "1.0.0",
-  "description": "Al Siam - Open Source Portfolio Website",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/alsiam/alsiam.github.io.git"
+  "description": "Your package description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "alsiam",
-    "al",
-    "siam",
-    "al siam",
-    "saif al siam"
-    "portfolio"
-    "personal website"
-  ],
-  "author": "Al Siam",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/alsiam/alsiam.github.io/issues"
-  },
-  "homepage": "https://alsiam.com"
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
